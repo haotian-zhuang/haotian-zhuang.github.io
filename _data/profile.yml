@@ -16,16 +16,18 @@ orcid: 0000-0003-0513-748X
 
 short_bio_text_justify: false
 short_bio: >-
-  <p>I am a Ph.D. candidate in Biostatistics at Duke University.</p>
+  <p>
+    I am a Ph.D. candidate in Biostatistics at Duke University, advised by
+    <a href="https://zji90.github.io/" target="_blank" rel="noopener noreferrer">Zhicheng Ji, Ph.D.</a>.
+    My research focuses on single-cell and spatial genomics, with particular interest in developing statistical and AI methods for spatiotemporal analysis, image analysis, and applications in cancer and cellular senescence.
+  </p>
 
 portrait_url: /assets/images/photos/haotian-zhuang.jpg
 portrait_caption: "Haotian Zhuang"
 
 education:
 - name: Duke University
-  position: >-
-    Ph.D. in Biostatistics<br/>
-    Advisor: <a href="https://zji90.github.io/" target="_blank" rel="noopener noreferrer">Zhicheng Ji, Ph.D.</a>
+  position: Ph.D. in Biostatistics
   date: Aug 2022 – May 2027 (expected)
 - name: Duke University
   position: Master of Biostatistics
