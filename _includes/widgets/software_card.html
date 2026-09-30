@@ -1,0 +1,11 @@
+<div class="my-3 bg-white shadow-sm rounded-xl">
+    <h6 class="p-3 mb-0 border-bottom border-gray"><i class="fas fa-code"></i> Software</h6>
+    <div class="px-3 py-1 small">
+        {% for item in site.data.software %}
+        <div class="py-2 {% unless forloop.last %}border-bottom border-gray{% endunless %}">
+            <strong>{{ item.name }}</strong>: {{ item.description }}
+            <a class="no-break" href="{{ item.url }}" target="_blank" rel="noopener noreferrer">[GitHub]</a>
+        </div>
+        {% endfor %}
+    </div>
+</div>

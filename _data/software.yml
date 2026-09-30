@@ -1,0 +1,23 @@
+- name: SpatialGland
+  description: Spatial identification of glands and neighborhoods for PDAC analysis
+  url: https://github.com/haotian-zhuang/SpatialGland
+
+- name: MUSTARD
+  description: Trajectory-guided dimension reduction for multi-sample single-cell RNA-seq data
+  url: https://github.com/haotian-zhuang/MUSTARD
+
+- name: PreTSA
+  description: Computationally efficient modeling of temporal and spatial gene expression patterns
+  url: https://github.com/haotian-zhuang/PreTSA
+
+- name: ctSVG
+  description: Identification of cell-type-specific spatially variable genes
+  url: https://github.com/haotian-zhuang/ctSVG
+
+- name: CaliMRCT
+  description: Calibration weighting estimation of treatment effect heterogeneity for MRCTs
+  url: https://github.com/haotian-zhuang/CaliMRCT
+
+- name: findPC
+  description: Automatic selection of number of principal components
+  url: https://github.com/haotian-zhuang/findPC
