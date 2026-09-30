@@ -1,6 +1,6 @@
 ---
 title: "Trajectory-guided dimensionality reduction for multi-sample single-cell RNA-seq data reveals biologically relevant sample-level heterogeneity"
-date: 2026-01-05 00:01:00 +0800
+date: 2026-04-22 12:00:00 +0000
 selected: true
 pub: "Bioinformatics"
 pub_date: "2026"

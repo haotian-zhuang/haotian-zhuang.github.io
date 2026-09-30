@@ -1,6 +1,6 @@
 ---
 title: "Assessment of treatment effect heterogeneity for multi-regional randomized clinical trials"
-date: 2024-01-02 00:01:00 +0800
+date: 2024-12-20 12:00:00 +0000
 selected: true
 pub: "Statistics in Biopharmaceutical Research"
 pub_date: "2024"

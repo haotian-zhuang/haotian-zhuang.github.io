@@ -1,6 +1,6 @@
 ---
 title: "Identifying cell-type-specific spatially variable genes with ctSVG"
-date: 2025-01-03 00:01:00 +0800
+date: 2025-12-08 12:00:00 +0000
 selected: true
 pub: "Genome Biology"
 pub_date: "2025"

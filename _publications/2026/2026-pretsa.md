@@ -1,6 +1,6 @@
 ---
 title: "PreTSA: computationally efficient modeling of temporal and spatial gene expression patterns"
-date: 2026-01-04 00:01:00 +0800
+date: 2026-02-12 12:00:00 +0000
 selected: true
 pub: "Genome Biology"
 pub_date: "2026"
